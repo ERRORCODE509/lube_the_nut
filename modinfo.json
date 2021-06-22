@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "lube_the_nut",
+    "name": "lube_the_nut",
+    "authors": [ "ERROR_CODE"],
+    "description": "It's not as bad as it sounds, I swear",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
